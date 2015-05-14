@@ -78,6 +78,15 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Sublime-text files
+*.sublime-workspace
+*.sublime-project
+
 # Windows
 # =========================
 
